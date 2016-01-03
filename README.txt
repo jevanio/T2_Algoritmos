@@ -1,0 +1,1 @@
+gcc t2.c -o t2 -Wall && ./t2 < input1.dat
